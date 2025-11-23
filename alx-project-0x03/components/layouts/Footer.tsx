@@ -1,4 +1,4 @@
-## components/layouts/Footer.tsx
+// ## components/layouts/Footer.tsx
 
 import { 
 FaFacebook, 
